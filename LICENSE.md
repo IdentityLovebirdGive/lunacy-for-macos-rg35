@@ -1,4 +1,4 @@
-# 
+# Lunacy for macOS custom Filter: plugin support & shortcut customization is the best Lunacy for macOS filter, featuring plugin support and shortcut customization. Safe, efficient,
 
 
 
